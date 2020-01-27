@@ -1,0 +1,8 @@
+.jumbotron {
+    background-attachment: fixed;
+    background-color: black;
+    background-repeat: no-repeat;
+    background-size: contain;
+    color: rgba(48, 36, 36, 0.932);    
+    text-shadow: 0px 0px 0px white;
+}
